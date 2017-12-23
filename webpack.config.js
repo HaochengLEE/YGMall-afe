@@ -1,7 +1,7 @@
 /*
-* @Author: Rosen
+* @Author: lihaocheng
 * @Date:   2016-11-20 13:19:28
-* @Last Modified by:   Rosen
+* @Last Modified by:   lihaocheng
 * @Last Modified time: 2017-06-15 09:38:12
 * 知识点：css单独打包、全局jquery引用、各种loader
 */
